@@ -1,10 +1,11 @@
-# -*- coding: utf-8 -*-
+#print the pattern shown below
 """
-pgm no 81
-Created on Mon Dec 27 18:29:52 2021
-Draw the pattern
-@author: tt
-"""
+     *
+    ***
+   *****
+  *******
+ *********
+*********** """
 c=0
 n=5
 q=1

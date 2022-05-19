@@ -1,9 +1,16 @@
-# -*- coding: utf-8 -*-
+# print the pattern shown below
 """
-pgm no 83
-Created on Mon Dec 27 18:29:52 2021
-Draw the pattern
-@author: tt
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+ *********
+  *******
+   *****
+    ***
+     *
 """
 c=0
 n=5
@@ -38,4 +45,3 @@ while d<=4:
           f=f+1
           h=h-2
           d=d+1
-

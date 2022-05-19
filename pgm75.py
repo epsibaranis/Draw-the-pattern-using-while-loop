@@ -1,4 +1,4 @@
-# print that factor
+# print that factor shown below
 """
 *
 **

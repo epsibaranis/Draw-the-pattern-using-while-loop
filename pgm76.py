@@ -1,4 +1,4 @@
-# print that pattern
+# print that pattern shown below
 """
 ******
 *****

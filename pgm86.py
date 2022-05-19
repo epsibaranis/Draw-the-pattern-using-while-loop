@@ -1,9 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-pgm no 86
-Created on Tue Dec 28 16:21:21 2021
-draw the pattern
-@author: tt
+       *
+     *   *
+    *     *
+   *       *
+  *         *
+ *           *
+* * * * * * * * 
 """
 q=0
 r=7
@@ -35,7 +38,4 @@ g=8
 while f<g:
     print('*',end='')
     print(' ',end='')
-    f=f+1
-    
-    
-    
+    f=f+1    

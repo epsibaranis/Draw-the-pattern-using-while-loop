@@ -1,4 +1,4 @@
-#draw the pattern
+#draw the pattern shown below
 """  *
     **
    ***
